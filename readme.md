@@ -2,7 +2,7 @@
 
 ## Overview
 
-With encFS you can create encrypted filesystems. I use it on my Mac for important files
+With [encFS](http://www.arg0.net/encfs) you can create encrypted filesystems. I use it on my Mac for important files
 and it works great. But I had to open the Terminal App and do the mounting. I wanted
 something simpler, something I can click on!
 
@@ -27,6 +27,8 @@ write the `.doencfs.plist` file in your home folder.
 
 If the file is already present or is just created then you will be asked for your *encfs* password
 and the directory will be mounted.
+
+You will have to install encFS first. I can recommend the installation with [HomeBrew](http://mxcl.github.com/homebrew/).
 
 ## **Important Note**
 
